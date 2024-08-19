@@ -1,1 +1,2 @@
 hello from qa branch,this is new file
+this line is added from qa branch
